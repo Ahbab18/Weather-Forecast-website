@@ -14,7 +14,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: [Framework or Library]
 API: [API_NAME]
 Installation
-Clone the repository: git clone https://github.com/yourusername/weather-forecast.git
+https://weatherforecast-by-ahbab.netlify.app/
 Navigate to the project directory: cd weather-forecast
 [Additional setup instructions, if any]
 Usage
